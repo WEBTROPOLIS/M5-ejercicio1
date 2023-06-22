@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">fragmentos</string>
+    <string name="txtIngresa">Ingrese una direccion web</string>
+    <string name="txtBotonir">Visitar el sitio web</string>
+    <string name="txtBotonVolver">Volver</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="url">https://www.google.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
